@@ -23,7 +23,7 @@ Before running the Virtual Trail Room application, ensure you have the following
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone 
+    git clone https://github.com/Nik9296/Virtual_trail_room_using_Python-main
     cd virtual-trail-room
     ```
 
